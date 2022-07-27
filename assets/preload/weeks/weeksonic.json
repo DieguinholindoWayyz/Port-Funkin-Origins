@@ -1,0 +1,32 @@
+{
+	"storyName": "I Make 31 Years Look Good.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "greenhill",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Sonic",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Checkpoint",
+			"sonic",
+			[
+				86,
+				233,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekOrigins",
+	"hiddenUntilUnlocked": false
+}
