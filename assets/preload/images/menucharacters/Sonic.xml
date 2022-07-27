@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONCIDLEMENU0000" x="0" y="0" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0001" x="551" y="0" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0002" x="1102" y="0" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0003" x="1653" y="0" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0004" x="2204" y="0" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0005" x="2755" y="0" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0006" x="3306" y="0" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0007" x="0" y="637" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0008" x="551" y="637" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0009" x="1102" y="637" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0010" x="1653" y="637" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0011" x="2204" y="637" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0012" x="2755" y="637" width="551" height="637"/>
+	<SubTexture name="SONCIDLEMENU0013" x="3306" y="637" width="551" height="637"/>
+</TextureAtlas>
