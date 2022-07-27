@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RANKS.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RANK-A0000" x="276" y="291" width="79" height="85"/>
+	<SubTexture name="RANK-B0000" x="158" y="376" width="79" height="85"/>
+	<SubTexture name="RANK-C0000" x="79" y="296" width="79" height="85"/>
+	<SubTexture name="RANK-D0000" x="0" y="296" width="79" height="85"/>
+	<SubTexture name="RANK-E0000" x="355" y="291" width="79" height="85"/>
+	<SubTexture name="RANK-F0000" x="237" y="376" width="79" height="85"/>
+	<SubTexture name="RANK-S0000" x="226" y="0" width="113" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0001" x="226" y="0" width="113" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0002" x="0" y="0" width="113" height="105"/>
+	<SubTexture name="RANK-S0003" x="0" y="0" width="113" height="105"/>
+	<SubTexture name="RANK-S0004" x="339" y="0" width="113" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0005" x="339" y="0" width="113" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0006" x="109" y="105" width="108" height="100" frameX="-2" frameY="-2" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0007" x="109" y="105" width="108" height="100" frameX="-2" frameY="-2" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0008" x="0" y="205" width="98" height="91" frameX="-6" frameY="-5" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0009" x="0" y="205" width="98" height="91" frameX="-6" frameY="-5" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0010" x="196" y="206" width="87" height="85" frameX="-12" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0011" x="196" y="206" width="87" height="85" frameX="-12" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0012" x="368" y="206" width="81" height="85" frameX="-18" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0013" x="368" y="206" width="81" height="85" frameX="-18" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0014" x="316" y="376" width="79" height="85" frameX="-20" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0015" x="316" y="376" width="79" height="85" frameX="-20" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0016" x="98" y="205" width="98" height="91" frameX="-9" frameY="-5" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0017" x="98" y="205" width="98" height="91" frameX="-9" frameY="-5" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0018" x="226" y="103" width="112" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0019" x="226" y="103" width="112" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0020" x="113" y="0" width="113" height="105"/>
+	<SubTexture name="RANK-S0021" x="113" y="0" width="113" height="105"/>
+	<SubTexture name="RANK-S0022" x="338" y="103" width="112" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0023" x="338" y="103" width="112" height="103" frameX="0" frameY="-1" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0024" x="0" y="105" width="109" height="100" frameX="-2" frameY="-2" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0025" x="0" y="105" width="109" height="100" frameX="-2" frameY="-2" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0026" x="98" y="205" width="98" height="91" frameX="-9" frameY="-5" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0027" x="98" y="205" width="98" height="91" frameX="-9" frameY="-5" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0028" x="283" y="206" width="85" height="85" frameX="-15" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0029" x="283" y="206" width="85" height="85" frameX="-15" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0030" x="196" y="291" width="80" height="85" frameX="-19" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0031" x="196" y="291" width="80" height="85" frameX="-19" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0032" x="316" y="376" width="79" height="85" frameX="-20" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0033" x="316" y="376" width="79" height="85" frameX="-20" frameY="-6" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0034" x="0" y="205" width="98" height="91" frameX="-6" frameY="-5" frameWidth="113" frameHeight="105"/>
+	<SubTexture name="RANK-S0035" x="0" y="205" width="98" height="91" frameX="-6" frameY="-5" frameWidth="113" frameHeight="105"/>
+</TextureAtlas>
